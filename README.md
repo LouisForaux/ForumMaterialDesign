@@ -1,5 +1,5 @@
 # ForumMaterialDesign
-Un forum en Material Design
+(Créez l'utilisateur "forum" avec le mot de passe "forum" et donnez l'accès à la base forum, créé avec le code suivant)
 SQL :
 ```SQL
 -- --------------------------------------------------------
